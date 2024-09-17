@@ -1,24 +1,27 @@
-# Compiled class file
-*.class
+# Ignore Spring Boot build files
+*/target/
+*/build/
 
-# Log file
-*.log
+# Ignore IDE files
+*/.idea/
+*/.eclipse/
 
-# BlueJ files
-*.ctxt
+# Ignore Maven and Gradle files
+*/.m2/
+*/.gradle/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Ignore OS files
+.DS_Store
+*/.DS_Store
+*/Thumbs.db
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+# Ignore logs
+*/logs/
+*/*.log
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+# Ignore application configuration files
+/application.yml
+*/application.properties
+
+# Ignore test files
+*/test/
