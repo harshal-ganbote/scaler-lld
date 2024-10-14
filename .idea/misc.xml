@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/L4_Design_Patterns_Builder/51148999-builder-message/pom.xml" />
+        <option value="$PROJECT_DIR$/L4_Design_Patterns_Builder/51149001-builder---query/pom.xml" />
+        <option value="$PROJECT_DIR$/L4_Design_Patterns_Builder/51149000-builder-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/L5_Design_Patterns_Prototype_and_Registry/51465471-prototype-user/pom.xml" />
+        <option value="$PROJECT_DIR$/L3_Design_Patterns_Introduction_and_Singleton/51062985-singleton-log/pom.xml" />
+        <option value="$PROJECT_DIR$/L3_Design_Patterns_Introduction_and_Singleton/51062986-singleton-pool/pom.xml" />
+        <option value="$PROJECT_DIR$/L3_Design_Patterns_Introduction_and_Singleton/51062984-java-singleton-exercise/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

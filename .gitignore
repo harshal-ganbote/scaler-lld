@@ -11,7 +11,7 @@
 */.gradle/
 
 # Ignore OS files
-.DS_Store
+*.DS_Store
 */.DS_Store
 */Thumbs.db
 
@@ -25,3 +25,5 @@
 
 # Ignore test files
 */test/
+
+*.class
